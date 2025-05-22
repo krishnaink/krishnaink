@@ -14,7 +14,6 @@
 🛠️ &nbsp;I’ve built projects using **Python, Java, C, JavaScript, React, Flask, FastAPI, and more**.  
 🏋️ &nbsp;Outside of tech, I enjoy going to the gym, playing video games, and spending time with friends.  
 📫 &nbsp;Reach out to me: **krishnakanth4477@gmail.com**  
-🌐 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/krishnainukonda/)
 
 
 ---
