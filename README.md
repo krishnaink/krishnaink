@@ -18,8 +18,6 @@
 
 ---
 
-📌 **Fun Fact:** I played baseball for 14 years and never miss an episode of *Jujutsu Kaisen*.
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
