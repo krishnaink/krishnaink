@@ -8,15 +8,19 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer and researcher by profession, and a MS in Computer Science (Biomedical Informatics) student at Arizona State University! \
-💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns and computational psychiatry.\
-🎓&nbsp;I graduated form Visvesvaraya National Institute of Technology, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at asinghdhadwal@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [LinkedIn](https://www.linkedin.com/in/abhishek-singh-dhadwal/) for more details about work experience.
 
+💻 &nbsp;I'm a software developer and recent graduate with a **Bachelor of Science in Computer Science** from **George Mason University**.  
+🎯 &nbsp;I'm passionate about **Full Stack Development**, **Artificial Intelligence**, and **Software Engineering**.  
+🔍 &nbsp;Currently exploring **Machine Learning**, **Cloud Computing**, and **Backend Architecture**.  
+🛠️ &nbsp;I’ve built projects using **Python, Java, C, JavaScript, React, Flask, FastAPI, and more**.  
+🏋️ &nbsp;Outside of tech, I enjoy going to the gym, playing video games, and spending time with friends.  
+📫 &nbsp;Reach out to me: **krishnakanth4477@gmail.com**  
+🌐 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/krishnainukonda/)
+
+
+---
+
+📌 **Fun Fact:** I played baseball for 14 years and never miss an episode of *Jujutsu Kaisen*.
 
 ### 🛠 &nbsp;Tech Stack
 
